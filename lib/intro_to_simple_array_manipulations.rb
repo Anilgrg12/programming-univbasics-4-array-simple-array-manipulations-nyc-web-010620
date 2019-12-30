@@ -9,3 +9,4 @@ end
 def using_pop(continents)
 deleted_string =continents.pop("Antarctica")
 end
+    
