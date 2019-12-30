@@ -1,3 +1,3 @@
 def using_push(Array,String)
-  updated_array = using_push.push()
+  updated_array = using_push.push("violet")
 end
