@@ -7,6 +7,6 @@ def using_unshift(bouroughs_in_nyc,new_neighborhood)
 end
 
 def using_pop(continents)
-deleted_string= continents.pop("Antarctica")
+"Antarctica"= continents.pop
 end
     
