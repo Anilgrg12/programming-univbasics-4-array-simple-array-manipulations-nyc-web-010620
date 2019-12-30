@@ -11,4 +11,5 @@ deleted_string =continents.pop("Antarctica")
 end
 
 def pop_with_args(dog_breeds)
-  small_breeds = dog_breeds.pop("")
+  small_breeds = dog_breeds.pop("Chihuahua", "Shiba Inu")
+end
