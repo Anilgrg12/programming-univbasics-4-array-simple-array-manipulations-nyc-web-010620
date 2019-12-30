@@ -1,3 +1,3 @@
-def using_push(Array,String)
+def using_push(array,string)
   using_push.push("violet")
 end
